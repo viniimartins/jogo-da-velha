@@ -1,0 +1,9 @@
+.menu {
+    display: block;
+    text-indent: -9999px;
+}
+
+
+.menu:after {
+    content: "a";
+}

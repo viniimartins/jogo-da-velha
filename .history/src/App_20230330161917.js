@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
-import Logo from "./objects/Logo";
 import Sobre from "./objects/Sobre";
+import Logo from "./objects/Logo";
 import Menu from "./objects/Menu";
 
 function App() {
@@ -8,7 +8,6 @@ function App() {
     <Fragment>
       <Logo />
       <Sobre />
-      <Menu />
     </Fragment>
 
   );
