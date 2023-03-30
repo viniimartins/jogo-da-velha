@@ -4,10 +4,10 @@ import Logo from "./objects/Logo";
 
 function App() {
   return (
-    <Fragment>
+    <>
       <Logo />
       <Sobre />
-    </Fragment>
+    </>
 
   );
 }
