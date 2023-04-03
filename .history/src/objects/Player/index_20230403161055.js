@@ -3,15 +3,15 @@ import './styles.css'
 import PlayerX from '../../img/player-x.png'
 import PlayerO from '../../img/player-o.png'
 
-const Player = ({ player }) => {
-    const players = []
-    players['x'] = PlayerX
-    players['o'] = PlayerO
-
+const Player = (props) => {
+    let player = '';
+    if(props.players === 'x'){
+        
+    }
 
     return (
         <button className="player">
-            <img src={players[player]} alt={`Jogador X ${player.toUpperCase()}`}></img>
+            <img src={PlayerO} alt="jogadorX"></img>
         </button>
     )
 }
