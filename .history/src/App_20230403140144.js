@@ -1,6 +1,4 @@
 import React, { Fragment } from "react";
-import Card from "./objects/Card"
-
 import Header from "./components/Header"
 
 function App() {
