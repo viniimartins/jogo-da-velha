@@ -5,7 +5,7 @@ import Hashtag from "./components/Hashtag";
 function App() {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <Hashtag />
     </>
 

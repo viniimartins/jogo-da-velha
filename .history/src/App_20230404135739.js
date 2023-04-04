@@ -1,12 +1,13 @@
 import React, { Fragment } from "react";
+import Card from "./objects/Card"
 import Header from "./components/Header"
-import Hashtag from "./components/Hashtag";
+import Player from "./objects/Player";
 
 function App() {
   return (
     <>
       <Header />
-      <Hashtag />
+      
     </>
 
   );
