@@ -9,14 +9,24 @@ function App() {
       <Header />
       <Card>
         <Player player='o' />
-        <Player player='x' />
         <Player player='o' />
-
         <Player player='o' />
-        <Player player='x' />
         <Player player='o' />
-
-        <Player player='x' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
+        <Player player='o' />
         <Player player='o' />
         <Player player='o' />
 

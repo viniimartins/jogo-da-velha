@@ -1,10 +1,12 @@
 import React from "react";
 import './styles.css'
 
-const Card = ({ children }) => {
+const Card = (props) => {
+    console.log(props)
+
     return (
         <article className="card">
-            {children}
+            {props.children}
         </article>
     )
 }
