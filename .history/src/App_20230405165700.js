@@ -10,7 +10,9 @@ const App = () => {
     <main className="app">
       <Header />
       <Hashtag />
-      <CheckBox id="show" value="show" content="Mostrar eventos" />
+      <CheckBox id="show" value="show" content="Mostrar eventos" type="checkbox" />
+      <CheckBox id="show" value="show" content="Text" type="checkbox" />
+
     </main>
   );
 }
