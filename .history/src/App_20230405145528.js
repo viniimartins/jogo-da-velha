@@ -10,7 +10,7 @@ const App = () => {
     <main className="app">
       <Header />
       <Hashtag />
-      <Label content="Mostrar Eventos"/>
+      <Label content="teste"/>
     </main>
   );
 }
