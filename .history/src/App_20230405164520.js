@@ -4,6 +4,7 @@ import "./App.css"
 import Header from "./components/Header"
 import Hashtag from "./components/Hashtag";
 import CheckBox from "./objects/CheckBox";
+import Input from "./objects/Input";
 
 const App = () => {
   return (

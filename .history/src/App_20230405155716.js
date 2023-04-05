@@ -3,14 +3,14 @@ import "./App.css"
 
 import Header from "./components/Header"
 import Hashtag from "./components/Hashtag";
-import CheckBox from "./objects/CheckBox";
+import Input from "./objects/Input"
 
 const App = () => {
   return (
     <main className="app">
       <Header />
       <Hashtag />
-      <CheckBox id="show" value="show" content="Mostrar eventos" type="checkbox" />
+      <Input id="show" value="show" content="Mostrar eventos" type="checkboax" />
     </main>
   );
 }

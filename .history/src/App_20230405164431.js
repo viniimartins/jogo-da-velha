@@ -11,6 +11,7 @@ const App = () => {
       <Header />
       <Hashtag />
       <CheckBox id="show" value="show" content="Mostrar eventos" type="checkbox" />
+      <Input  type="text"/>
     </main>
   );
 }
