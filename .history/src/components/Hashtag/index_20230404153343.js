@@ -6,7 +6,7 @@ import Player from "../../objects/Player";
 
 const Hashtag = () => {
     return (
-        <Card classNameName="card">
+        <Card>
             <ul className="hashtag">
                 <li className="item"><Player player='o' /></li>
                 <li className="item"><Player player='o' /></li>

@@ -17,4 +17,5 @@
   background-color: var(--color-zero);
   display: flex;
   justify-content: center;
+  align-items: center;
 }

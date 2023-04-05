@@ -1,14 +1,14 @@
-import React from "react";
-import "./App.css"
+import React, { Fragment } from "react";
 import Header from "./components/Header"
 import Hashtag from "./components/Hashtag";
 
-const App = () => {
+function App() {
   return (
     <main className="app">
       <Header />
       <Hashtag />
     </main>
+
   );
 }
 
