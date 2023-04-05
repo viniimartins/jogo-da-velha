@@ -1,0 +1,11 @@
+.hashtag {
+  height: 100%;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  grid-template-rows: 33.333% 33.333 33.333%;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+
+}

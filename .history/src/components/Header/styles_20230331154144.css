@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header > .sobre {
+    margin-left: auto;
+}
+
+
+.header > .menu {
+    width: 25px;
+}

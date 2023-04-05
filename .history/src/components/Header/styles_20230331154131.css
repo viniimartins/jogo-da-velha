@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sobre {
+  margin-left: auto;
+}
+
+.menu {
+  width: 25px;
+}

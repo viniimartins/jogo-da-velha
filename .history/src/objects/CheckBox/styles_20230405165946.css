@@ -1,0 +1,10 @@
+.input {
+}
+
+
+.label::before {
+    content: "";
+    border: 3px solid var(--color-fourth);
+    width: 20px;
+    height: ;
+}

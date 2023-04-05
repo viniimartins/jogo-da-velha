@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header > .menu {
+    margin-left: auto;
+}
+
+
+.header > .menu {
+    width: 25px;
+}

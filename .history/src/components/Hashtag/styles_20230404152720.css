@@ -1,0 +1,9 @@
+.hashtag {
+  height: 100%;
+
+  display: grid;
+  grid-template-columns: 33.333% 33.333% 33.333%;
+  grid-template-rows: 33.333% 33.333 33.333%;
+  /* grid-column-gap: 5px; */
+
+}

@@ -1,0 +1,19 @@
+.input {
+    /* display: none; */
+}
+
+
+.label::before {
+    content: "";
+    box-sizing: border-box;
+    display: inline-block;
+    border: 3px solid var(--color-fourth);
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.input:checked + .label::before {
+    background-color: var(--color-first);
+}

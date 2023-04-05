@@ -1,0 +1,10 @@
+.menu {
+    display: block;
+    text-indent: -9999px;
+}
+
+
+.menu:after {
+    content: "";
+    height: 4px;
+}
