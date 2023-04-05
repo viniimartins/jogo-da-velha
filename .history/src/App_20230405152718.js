@@ -11,7 +11,7 @@ const App = () => {
     <main className="app">
       <Header />
       <Hashtag />
-      <Input value="show" />
+      <Input />
       <Label content="Mostrar Eventos"/>
     </main>
   );
