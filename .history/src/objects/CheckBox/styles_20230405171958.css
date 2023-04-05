@@ -3,9 +3,8 @@
 }
 
 .label {
-  display: inline-flex;
+  display: flex;
   align-items: center;
-  justify-content: center;
 }
 
 .label::before {
@@ -17,8 +16,6 @@
   height: 20px;
   border-radius: 4px;
   cursor: pointer;
-  margin-right: 5px;
-
 }
 
 .input:checked + .label::before {

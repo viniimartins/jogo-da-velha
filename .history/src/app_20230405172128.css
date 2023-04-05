@@ -14,5 +14,8 @@
     box-sizing: border-box;
     width: 80vw;
     height: 80vw;
-    margin-bottom: 40px;
+}
+
+.app > .checkbox {
+    gap: 10px;
 }

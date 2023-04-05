@@ -7,7 +7,7 @@ const CheckBox = ({ id = "", value = "", content = "" }) => {
     return (
         <>
             <Input id={id} value={value} content={content} type="checkbox" />
-            <Label className="checkbox" htmlFor={id} content={content} />
+            <Label htmlFor={id} content={content} />
         </>
     )
 }
